@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsML>
+    <Catalog Href="http://www.iptc.org/std/catalog/catalog.IptcMasterCatalog.xml"/>
+    <NewsEnvelope>
+        <DateAndTime>20130906T192741</DateAndTime>
+    </NewsEnvelope>
+    <NewsItem LinkType="normal">
+        <Identification>
+            <NewsIdentifier>
+                <ProviderId>Peter Nowak</ProviderId>
+            </NewsIdentifier>
+        </Identification>
+        <NewsManagement>
+            <NewsItemType FormalName="News"/>
+            <FirstCreated>20130422T163108</FirstCreated>
+            <ThisRevisionCreated>20130906T20130906</ThisRevisionCreated>
+            <Status FormalName="Usable"/>
+        </NewsManagement>
+        <NewsComponent Duid="http://www.canadianbusiness.com/?p=353450 copyright" Essential="no" EquivalentsList="no">
+            <NewsLines>
+                <CopyrightLine>Chatelaine</CopyrightLine>
+            </NewsLines>
+            
+            <NewsComponent Duid="http://www.canadianbusiness.com/?p=353450">
+                <DateLine>20130422T163108</DateLine>
+                <Author>Peter Nowak</Author>
+                <NewsComponent>
+                    <Role FormalName="Main"/>
+                    <NewsLines>
+                        <HeadLine>Defeating CISPA will take the power of Google and others</HeadLine>
+                        <SlugLine> 
+			                <![CDATA[<p>Protesting online privacy.</p>
+                            ]]>
+                        </SlugLine>
+                        <MoreLink> 
+                            http://www.canadianbusiness.com/?p=353450                        </MoreLink>
+                    </NewsLines>
+                    <ContentItem>
+                        <DataContent>
+                            <nitf>
+                                <body>
+                                    <body.head>
+                                        <headline>
+                                            <hl1>Defeating CISPA will take the power of Google and others</hl1>
+                                        </headline>
+                                    </body.head>
+                                    
+	            	            	
+                                    <body.content>
+                                        <![CDATA[
+                                            <p>If you came across some websites on Monday that don’t seem to be working, don’t panic–it’s probably an online protest against the latest round of proposed internet privacy laws. Over the weekend, the hackers of Anonymous called for websites <a href="http://www.pcmag.com/article2/0,2817,2417983,00.asp">to join the blackout</a> on Apr. 22, to make a statement against the <a href="http://en.wikipedia.org/wiki/Cyber_Intelligence_Sharing_and_Protection_Act">Cyber Intelligence Sharing and Protection Act</a> that was passed by the U.S. House of Representatives last week.</p>
+                                            <p>Here’s the group’s video:</p>
+                                            <p><iframe width="500" height="281" src="http://www.youtube.com/embed/i_nFyavcld4?feature=oembed&#038;wmode=opaque" frameborder="0" allowfullscreen></iframe></p>
+                                            <p>CISPA will make it easier for internet service providers and web companies such as Google, Twitter and Facebook to voluntarily share user information with authorities by giving them more protections against privacy lawsuits. That’s why politicians such as Senator Mike Rogers, from Michigan, suggest that such companies actually support the bill, with opposition coming only from “teenagers in their basements.”<span id="more-6916"></span></p>
+                                            <p>“The very companies that you say are uncomfortable with this support this bill. The people who are in the business of prosperity on the Internet think this is the right approach,” <a href="http://www.panarmenian.net/eng/news/155179/">he said</a>.</p>
+                                            <p>With the blackout, Anonymous is hoping to spur the same sort of support against CISPA as emerged last year to kill the Stop Online Piracy Act. Large websites such as Google, Wikipedia and Reddit joined in on that protest.</p>
+                                            <p>While CISPA may have passed the House vote by a margin of 288 for and 127 against, it still has to pass the U.S. Senate and a potential presidential veto, which Barack Obama <a href="http://www.pcmag.com/article2/0,2817,2417849,00.asp">has threatened</a>.</p>
+                                            <p>The legislation would affect non-Americans, since subscribers of U.S.-based web services could have their information handed over to authorities in the country. Canadian privacy advocates are therefore no less opposed to CISPA.</p>
+                                            <p>“We are in an extremely important time in history where we are evolving our laws to deal with the shift to the digital world,” says Chris Houston, chief executive of SurfEasy Online Privacy. “This is an important and necessary endeavor that needs to be done openly and with a clear goal of preserving and extending the civil rights and freedom that today govern our physical world.”</p>
+                                            <p>Toronto-based SurfEasy, which sells products that encrypt and shield users’ identities, is supporting <a href="http://www.fightforthefuture.org/">Fight For the Future</a>, the same organization that organized the SOPA protest last year.</p>
+                                            <p>“It is far too technically easy for our online lives to be monitored and shared without our knowledge,” Houston says. “This is why there needs to be serious scrutiny over any new legislation like CISPA that introduces broad new powers for sharing of our online lives without due process or notice.”</p>
+                                            <p>It would seem that the bill actually runs counter to the interests of many big internet businesses – after all, if users’ information can be more easily handed over to authorities without their say, won’t they just share less of that information with ISPs and web services? Companies such as Facebook and Google are built entirely on accumulating as much data on users as they’ll voluntarily give, so if those users suddenly cut back on that info, the companies will inevitably suffer.</p>
+                                            <p>That’s why it’ll be interesting to see if any of the big corporations that supposedly support CISPA do indeed join in the blackout, or whether they sit back and let others do the fighting instead. The other intriguing question to watch is whether the bill can be defeated without their support. Internet and civil liberties advocates loudly proclaimed their victory over SOPA last year, but will they be able to score a win without big companies such as Google backing them?</p>
+                                            <div class="adpass">continue reading below</div><div class="alignright"> <div class="box ad ad-box swap-box" id="ad-box-1">
+                                            <div id="bigbox-1379512493-915" class="bigbox ad-container">
+                                            <h5>Advertisement</h5>
+                                            <script type="text/javascript">
+                                            adUtility.insertAd("bigbox-1379512493-915", {type: adUtility._AD_BIGBOX});
+                                            </script>
+                                            </div>
+                                            </div></div>
+                                            <p>The post <a href="http://int-www.canadianbusiness.com/blogs-and-comment/defeating-cispa-will-take-the-power-of-google-and-others/">Defeating CISPA will take the power of Google and others</a> appeared first on <a href="http://int-www.canadianbusiness.com">Canadian Business</a>.</p>			            <p><h3>Related Content</h3><ul><li><a href="http://int-www.canadianbusiness.com/business-news/industries/online-privacy-is-overrated/">Online privacy is overrated</a></li><li><a href="http://int-www.canadianbusiness.com/technology-news/mozilla-takes-a-bite-out-of-cookies/">Mozilla takes a bite out of cookies</a></li><li><a href="http://int-www.canadianbusiness.com/technology-news/could-the-next-xbox-be-microsofts-final-flop/">Could the next Xbox be Microsoft’s final flop?</a></li></ul></p>	
+                                        ]]>						
+                                    </body.content>
+                                    
+                                </body>
+                            </nitf>
+                        </DataContent>
+                    </ContentItem>
+                </NewsComponent>
+            </NewsComponent>    
+        </NewsComponent>
+    </NewsItem>
+	
+    
+    
+	
+    <NewsItem LinkType="normal">
+        <Identification>
+            <NewsIdentifier>
+                <ProviderId>Chris MacDonald</ProviderId>
+            </NewsIdentifier>
+        </Identification>
+        <NewsManagement>
+            <NewsItemType FormalName="News"/>
+            <FirstCreated>20130422T121443</FirstCreated>
+            <ThisRevisionCreated>20130906T20130906</ThisRevisionCreated>
+            <Status FormalName="Usable"/>
+        </NewsManagement>
+        <NewsComponent Duid="http://www.canadianbusiness.com/?p=351364 copyright" Essential="no" EquivalentsList="no">
+            <NewsLines>
+                <CopyrightLine>Chatelaine</CopyrightLine>
+            </NewsLines>
+            
+            <NewsComponent Duid="http://www.canadianbusiness.com/?p=351364">
+                <DateLine>20130422T121443</DateLine>
+                <Author>Chris MacDonald</Author>
+                <NewsComponent>
+                    <Role FormalName="Main"/>
+                    <NewsLines>
+                        <HeadLine>Making sense of &#8216;tone at the top&#8217;</HeadLine>
+                        <SlugLine> 
+			                <![CDATA[<p>Tone is for middle managers, too.</p>
+                            ]]>
+                        </SlugLine>
+                        <MoreLink> 
+                            http://www.canadianbusiness.com/?p=351364                        </MoreLink>
+                    </NewsLines>
+                    <ContentItem>
+                        <DataContent>
+                            <nitf>
+                                <body>
+                                    <body.head>
+                                        <headline>
+                                            <hl1>Making sense of &#8216;tone at the top&#8217;</hl1>
+                                        </headline>
+                                    </body.head>
+                                    
+	            	            	
+                                    <body.content>
+                                        <![CDATA[
+                                            <p><img class="alignleft size-medium wp-image-353120" alt="CB_stairs" src="http://www.canadianbusiness.com/wp-content/uploads/2013/04/stairs-300x199.jpg" width="300" height="199" /></p>
+                                            <p>In my <a title="Does the right tone at the top guarantee success?" href="http://www.canadianbusiness.com/blogs-and-comment/does-the-right-tone-at-the-top-guarantee-success/" target="_blank">previous blog entry</a>, I talked about the extent to which the right &#8220;tone at top&#8221; contributes to a company&#8217;s success. But what does it mean to focus on tone specifically &#8220;at the top&#8221;?</p>
+                                            <p>What it can’t be thought to mean is just the CEO, or even the entire executive team. “Top” should be interpreted as meaning whomever you regard as a moral leader. Anyone who embodies the key <a title="The value of ethical leadership" href="http://www.canadianbusiness.com/blogs-and-comment/the-value-of-ethical-leadership/" target="_blank">leadership values</a> of trustworthiness, insight, humility and enthusiasm is likely to be seen as a leader, regardless of job title.</p>
+                                            <p>So we need to talk about not just the tone at the literal “top”, but also at the <em>middle</em>. Note that the average tenure of a CEO these days is something like four or five years. This means that the tone at the literal top of the organization is likewise liable to change every four to five years. Moreover, in most <a title="How to promote ethical behaviour in your global business" href="http://www.canadianbusiness.com/blogs-and-comment/how-to-promote-ethical-behaviour-in-your-global-business/" target="_blank">large organizations</a>, most people never get to meet the CEO, or for that matter any C-suite executive. By contrast, lower down every organization has a larger class of middle managers who come and go much less frequently. For most employees someone in middle management is effectively “the top” (of the relevant chain of command). So the right tone has to be set at many managerial levels.</p>
+                                            <p>Finally, we need to ask what “success” is. When we assert that positive tone at the top &#8220;ensures success,&#8221; what do we mean?</p>
+                                            <p>Here it has to be taken to mean “ethical success,” because “ethical success” means doing justice to the full range of ethical obligations that obtain within an organization. That means doing your best to earn a decent return for investors, while at the same time treating people with respect and playing by the rules, not just in law but also in spirit.</p>
+                                            <p>Now no one can ever reasonably expect to turn a tough, competitive business environment into a love-in, or that any organization with hundreds or thousands of employees will be able to guarantee that no one ever breaks a rule. But if an organization is going to come even close to meeting reasonable expectations—reaching the capitalist ideal of playing fair while trying to earn a decent living by selling a decent product—it is going to have to do that in large part through the force of effective leadership.</p>
+                                            <p>A positive tone at the top is the closest thing there is to a guarantee of success, as long as you think critically about what those words must mean for a complex organization in a competitive environment.</p>
+                                            <p><em>Chris MacDonald is Director of the Jim Pattison Ethical Leadership Education &amp; Research Program at the Ted Rogers School of Management</em></p>
+                                            <p>The post <a href="http://int-www.canadianbusiness.com/blogs-and-comment/making-sense-of-tone-at-the-top/">Making sense of &#8216;tone at the top&#8217;</a> appeared first on <a href="http://int-www.canadianbusiness.com">Canadian Business</a>.</p>			            <p><h3>Related Content</h3><ul><li><a href="http://int-www.canadianbusiness.com/blogs-and-comment/the-value-of-ethical-leadership/">The value of ethical leadership</a></li><li><a href="http://int-www.canadianbusiness.com/blogs-and-comment/petraeus-moralizing-and-leadership-obligations/">Petraeus, moralizing, and leadership obligations</a></li></ul></p>	
+                                        ]]>						
+                                    </body.content>
+                                    
+                                    
+                                    
+                                </body>
+                            </nitf>
+                        </DataContent>
+                    </ContentItem>
+                </NewsComponent>
+            </NewsComponent>    
+        </NewsComponent>
+    </NewsItem>
+	
+    
+    
+	
+    <NewsItem LinkType="normal">
+        <Identification>
+            <NewsIdentifier>
+                <ProviderId>Mike Moffatt</ProviderId>
+            </NewsIdentifier>
+        </Identification>
+        <NewsManagement>
+            <NewsItemType FormalName="News"/>
+            <FirstCreated>20130422T111519</FirstCreated>
+            <ThisRevisionCreated>20130906T20130906</ThisRevisionCreated>
+            <Status FormalName="Usable"/>
+        </NewsManagement>
+        <NewsComponent Duid="http://www.canadianbusiness.com/?p=353052 copyright" Essential="no" EquivalentsList="no">
+            <NewsLines>
+                <CopyrightLine>Chatelaine</CopyrightLine>
+            </NewsLines>
+            
+            <NewsComponent Duid="http://www.canadianbusiness.com/?p=353052">
+                <DateLine>20130422T111519</DateLine>
+                <Author>Mike Moffatt</Author>
+                <NewsComponent>
+                    <Role FormalName="Main"/>
+                    <NewsLines>
+                        <HeadLine>Canada lagging behind Australia in youth employment</HeadLine>
+                        <SlugLine> 
+			                <![CDATA[<p>Canada lagging behind Aussies.</p>
+                            ]]>
+                        </SlugLine>
+                        <MoreLink> 
+                            http://www.canadianbusiness.com/?p=353052                        </MoreLink>
+                    </NewsLines>
+                    <ContentItem>
+                        <DataContent>
+                            <nitf>
+                                <body>
+                                    <body.head>
+                                        <headline>
+                                            <hl1>Canada lagging behind Australia in youth employment</hl1>
+                                        </headline>
+                                    </body.head>
+                                    
+	            	            	
+                                    <body.content>
+                                        <![CDATA[
+                                            <p>Canada and Australia have a great deal in common, from Queen Elizabeth II to commodity exports.  Like Canada, Australia is also <a href="http://www.brw.com.au/p/leadership/confidence_lacking_for_labor_swansong_BjtR5MlOa9qJiiI6DBMNXI">concerned about youth unemployment</a>.   Australia’s record on youth unemployment, however, is far stronger than Canada’s.</p>
+                                            <p>It was not always this way.  Going back 10-20 years, the unemployment rates for those aged 15-24 tracked closely between Australia and Canada.  In the period from April 1993 to March 2002, the youth unemployment rate in both countries averaged 14.7%:</p>
+                                            <p><img alt="" src="data:image/png;base64,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" /></p>
+                                            <p>The youth unemployment rates fell in both countries as commodity prices rose, which is not surprising as both are net exporters of commodities.  However, the youth unemployment rate fell much faster in Australia, reaching a low of 8.7%, while Canada’s best performance was a rate of 10.9% in August, 2008.</p>
+                                            <p><img alt="" src="data:image/png;base64,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" /></p>
+                                            <p>Youth in Canada were hit much harder by the financial crisis, with youth unemployment peaking at 16.4%, compared to 12% in Australia.  Canada has recovered somewhat since then, with a March 2013 rate of 14.2%, while Australia has hovered between 11% and 12%.  The gap between Canadian and Australia youth unemployment rates is closing, but is still over 2 percentage points:</p>
+                                            <p><img alt="" src="data:image/png;base64,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" /></p>
+                                            <p>This difference is truly puzzling, as historically the two economies (and their youth unemployment rates) have tracked each other closely.  Yet Canadians are not benefiting nearly as much as Australians from a decade-long rise in commodity prices.  The difference cannot be explained by an outbreak of Dutch Disease in Canada, as the Australian dollar has appreciated faster than the Canadian dollar over the last decade.</p>
+                                            <p>Australians are right to be concerned about the rate of youth unemployment in their country.  However, a 12% unemployment rate for those aged 15-24 is a problem that Canada would love to have.</p>
+                                            <p><em><strong>Mike Moffatt</strong> is an Assistant Professor in the Business, Economics and Public Policy (BEPP) group at the Richard Ivey School of Business.</em></p>
+                                            <div class="adpass">continue reading below</div><div class="alignright"> <div class="box ad ad-box swap-box" id="ad-box-1">
+                                            <div id="bigbox-1379512493-257" class="bigbox ad-container">
+                                            <h5>Advertisement</h5>
+                                            <script type="text/javascript">
+                                            adUtility.insertAd("bigbox-1379512493-257", {type: adUtility._AD_BIGBOX});
+                                            </script>
+                                            </div>
+                                            </div></div>
+                                            <p>The post <a href="http://int-www.canadianbusiness.com/blogs-and-comment/canada-lagging-behind-australia-in-youth-employment/">Canada lagging behind Australia in youth employment</a> appeared first on <a href="http://int-www.canadianbusiness.com">Canadian Business</a>.</p>			            <p><h3>Related Content</h3><ul><li><a href="http://int-www.canadianbusiness.com/business-strategy/unemployed-young-people-a-great-economic-threat/">Unemployed young people a great economic threat</a></li><li><a href="http://int-www.canadianbusiness.com/business-strategy/the-skills-for-our-success/">The skills for our success</a></li><li><a href="http://int-www.canadianbusiness.com/companies-and-industries/automation-makes-life-more-efficient-and-eventually-it-will-take-away-your-job/">Technology makes life more efficient, but could it soon take your job?</a></li><li><a href="http://int-www.canadianbusiness.com/business-strategy/millennials-and-age-discrimination-tips/">Millennials and age discrimination: Tips</a></li><li><a href="http://int-www.canadianbusiness.com/list-and-rankings/canadas-top-10-jobs/">Canada’s top 10 jobs</a></li></ul></p>	
+                                        ]]>						
+                                    </body.content>
+                                    
+                                    
+                                    
+                                </body>
+                            </nitf>
+                        </DataContent>
+                    </ContentItem>
+                </NewsComponent>
+            </NewsComponent>    
+        </NewsComponent>
+    </NewsItem>
+	
+    
+    
+	
+    <NewsItem LinkType="normal">
+        <Identification>
+            <NewsIdentifier>
+                <ProviderId>Jeff Beer</ProviderId>
+            </NewsIdentifier>
+        </Identification>
+        <NewsManagement>
+            <NewsItemType FormalName="News"/>
+            <FirstCreated>20130422T073340</FirstCreated>
+            <ThisRevisionCreated>20130906T20130906</ThisRevisionCreated>
+            <Status FormalName="Usable"/>
+        </NewsManagement>
+        <NewsComponent Duid="http://www.canadianbusiness.com/?p=342590 copyright" Essential="no" EquivalentsList="no">
+            <NewsLines>
+                <CopyrightLine>Chatelaine</CopyrightLine>
+            </NewsLines>
+            
+            <NewsComponent Duid="http://www.canadianbusiness.com/?p=342590">
+                <DateLine>20130422T073340</DateLine>
+                <Author>Jeff Beer</Author>
+                <NewsComponent>
+                    <Role FormalName="Main"/>
+                    <NewsLines>
+                        <HeadLine>Do TV ratings still matter?</HeadLine>
+                        <SlugLine> 
+			                <![CDATA[<p>Do tweets count more than eyeballs?</p>
+                            ]]>
+                        </SlugLine>
+                        <MoreLink> 
+                            http://www.canadianbusiness.com/?p=342590                        </MoreLink>
+                    </NewsLines>
+                    <ContentItem>
+                        <DataContent>
+                            <nitf>
+                                <body>
+                                    <body.head>
+                                        <headline>
+                                            <hl1>Do TV ratings still matter?</hl1>
+                                        </headline>
+                                    </body.head>
+                                    
+	            	            	
+                                    <body.content>
+                                        <![CDATA[
+                                            <div class="row" style="background-color: #ea9f6b; padding-top: 5px;">
+                                            <div class="six columns centered" style="text-align: center;">
+                                            <h3 style="color: #ffff;">TV&#8217;s most watched vs TV&#8217;s most social</h3>
+                                            </div>
+                                            </div>
+                                            <p><a href="http://www.canadianbusiness.com/wp-content/uploads/2013/04/remote.jpg"><img class="aligncenter size-full wp-image-342570" alt="remote" src="http://www.canadianbusiness.com/wp-content/uploads/2013/04/remote.jpg" width="414" height="131" /></a></p>
+                                            <p>How do you watch TV? Once upon a time, the answer was “I sit in front of it.” But smartphones, tablets, PVRs, Apple TV, Netflix and other gadgets now serve up content whenever and wherever we want it. Eyeballs are no longer the only currency for advertisers. Traditional audience tracking is now joined by tweets and status updates that measure a show’s influence and popularity. In Canada, BBM and Nielsen ratings are the norm, but the latter recently paired with Twitter to measure social ratings and newer firms like Bluefin Labs and Seevibes are doing the same. So what’s the difference between the “most viewed” shows on television and the “most social” ones? We’ve provided a selection of both—so you can draw your own conclusions.</p>
+                                            <p><b>Most Watched</b> based on Bureau of Broadcasting Measurement (BBM) ratings for the week of Mar. 11-17.<b> Most Social</b> based on Seevibes ratings for the week of Mar. 17-23 (<i>Game of Thrones<i> for the night of Mar. 31.) </i></i></p>
+                                            <p><!--1--></p>
+                                            <div class="row">
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST WATCHED </strong></p>
+                                            <p style="color: #000000;">BIG BANG THEORY</p>
+                                            <p>3.7 million viewers</p>
+                                            <p>Love it or hate it (though most seem to love it) this nerdy sitcom is a rare ratings juggernaut that ranks high in most social metrics.</p>
+                                            </div>
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST SOCIAL</strong></p>
+                                            <p style="color: #000000;">GAME OF THRONES</p>
+                                            <p>SEEVIBES SCORE: 71<br />
+                                            INTERACTIONS: 27,178<br />
+                                            <img alt="" src="http://www.canadianbusiness.com/wp-content/uploads/2013/04/thrones.jpg" /><br />
+                                            What HBO lacks in viewers, it makes up in cultural footprint. The season 3 premiere of this fantasy epic brought dragons, dwarves and Jon Snow&#8217;s luxurious mane back into many social-media feeds.</p>
+                                            </div>
+                                            </div>
+                                            <p><!--2--></p>
+                                            <div class="row">
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST WATCHED </strong></p>
+                                            <p style="color: #000000;">AMAZING RACE 22</p>
+                                            <p>2.4 million viewers<br />
+                                            <img alt="" src="http://www.canadianbusiness.com/wp-content/uploads/2013/04/race.jpg" /><br />
+                                            Reality TV, along with sports and awards shows, garners a strong mix of viewers and social interaction, thanks to being one of the last vestiges of appointment viewing left on TV.</p>
+                                            </div>
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST SOCIAL</strong></p>
+                                            <p style="color: #000000;">PRETTY LITTLE LIARS</p>
+                                            <p>SEEVIBES SCORE: 84<br />
+                                            INTERACTIONS: 1.14m</p>
+                                            <p>This teen mystery series beat out viewership behemoths like<i>The Biggest Loser</i> and <i>American Idol</i> on Seevibes&#8217; social score.</p>
+                                            </div>
+                                            </div>
+                                            <p><!--3--></p>
+                                            <div class="row">
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST WATCHED </strong></p>
+                                            <p style="color: #000000;">TWO AND A HALF MEN</p>
+                                            <p>2.4 million viewers</p>
+                                            <p>It&#8217;s been on for so long it should probably just be called <i>Three Men</i>. Despite Charlie Sheen&#8217;s departure drama and Aston Kutcher&#8217;s arrival, the sitcom remains a top draw.</p>
+                                            </div>
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST SOCIAL</strong></p>
+                                            <p style="color: #000000;">VAMPIRE DIARIES</p>
+                                            <p>SEEVIBES SCORE: 88<br />
+                                            INTERACTIONS 243k<br />
+                                            <img alt="" src="http://www.canadianbusiness.com/wp-content/uploads/2013/04/vampires.jpg" /><br />
+                                            It&#8217;s more fun than <i>Twilight</i> and less naked than <i>True Blood</i> but this <i>Dawson&#8217;s Creek</i>-meets vampires drama also routinely outscores bigger network shows in social media.</p>
+                                            </div>
+                                            </div>
+                                            <p><!--4--></p>
+                                            <div class="row">
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST WATCHED </strong></p>
+                                            <p style="color: #000000;">SURVIVOR: CARAMOAN</p>
+                                            <p>2 million viewers</p>
+                                            <p>Now a grandaddy of network TV, <i>Survivor</i> continues to keep viewers coming back for more regular Joes playing <i>Lord of the Flies</i>. Richard Hatch would&#8217;ve been huge on Twitter.</p>
+                                            </div>
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST SOCIAL</strong></p>
+                                            <p style="color: #000000;">SCANDAL</p>
+                                            <p>SEEVIBES SCORE: 83<br />
+                                            INTERACTIONS 248k</p>
+                                            <p>A political soap about a Washington, D.C. fixer that features beautiful people, politics, coverups, murder and past cast members of <i>Gilmore Girls</i>. Who wouldn&#8217;t want to Facebook Like that?</p>
+                                            </div>
+                                            </div>
+                                            <p><!--5--></p>
+                                            <div class="row">
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST WATCHED </strong></p>
+                                            <p style="color: #000000;">BLUE BLOODS</p>
+                                            <p>1.7 million viewers</p>
+                                            <p>People who watch this drama about a family of cops don&#8217;t seem bothered to Tweet about it. Perhaps they&#8217;re too mesmerized by Tom Selleck&#8217;s mustache. Or perhaps they&#8217;re just old.</p>
+                                            </div>
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>MOST SOCIAL</strong></p>
+                                            <p style="color: #000000;">AMERICAN IDOL</p>
+                                            <p>SEEVIBES SCORE: 83<br />
+                                            INTERACTIONS 384k</p>
+                                            <p>While it&#8217;s been in a ratings rumble with NBC&#8217;s <i>The Voice</i>, this TV singing contest still has enough juice to pull off top-notch ratings and more than decent social scores. In Canada, CTV airs both.</p>
+                                            </div>
+                                            </div>
+                                            <p><!--6--></p>
+                                            <div class="row">
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>BIG BANG THEORY </strong></p>
+                                            <p style="color: #000000;">WATCH IT!</p>
+                                            <p><img alt="" src="http://www.canadianbusiness.com/wp-content/uploads/2013/04/sheldon200.jpg" /><br />
+                                            This week, Sheldon and the gang invent a new ratings system and accidentally get their favourite show moved to Mondays at 2 a.m.</p>
+                                            </div>
+                                            <div class="six columns" style="padding-top: 20px; border-top: 1px solid #ea9f6b; margin-top: 10px;">
+                                            <p style="color: #000000;"><strong>HOW THE SEEVIBES SCORES WORK</strong></p>
+                                            <p>Interactions area gross measurement of Facebook and Twitter activity (including retweets) relating to a show in English Canada during the 24 hours surrounding a program&#8217;s initial air date. A proprietary score is then calculated by six variables: total impressions, market share, frequency, feedback level, action level and loyalty score.</p>
+                                            </div>
+                                            </div>
+                                            <div class="adpass">continue reading below</div><div class="alignright"> <div class="box ad ad-box swap-box" id="ad-box-1">
+                                            <div id="bigbox-1379512493-401" class="bigbox ad-container">
+                                            <h5>Advertisement</h5>
+                                            <script type="text/javascript">
+                                            adUtility.insertAd("bigbox-1379512493-401", {type: adUtility._AD_BIGBOX});
+                                            </script>
+                                            </div>
+                                            </div></div>
+                                            <p>The post <a href="http://int-www.canadianbusiness.com/companies-and-industries/do-tv-ratings-still-matter/">Do TV ratings still matter?</a> appeared first on <a href="http://int-www.canadianbusiness.com">Canadian Business</a>.</p>			            </ul></p>	
+                                        ]]>						
+                                    </body.content>
+                                    
+                                    
+                                    
+                                </body>
+                            </nitf>
+                        </DataContent>
+                    </ContentItem>
+                </NewsComponent>
+            </NewsComponent>    
+        </NewsComponent>
+    </NewsItem>
+	
+    
+    
+	
+    <NewsItem LinkType="normal">
+        <Identification>
+            <NewsIdentifier>
+                <ProviderId>Peter Nowak</ProviderId>
+            </NewsIdentifier>
+        </Identification>
+        <NewsManagement>
+            <NewsItemType FormalName="News"/>
+            <FirstCreated>20130410T133033</FirstCreated>
+            <ThisRevisionCreated>20130906T20130906</ThisRevisionCreated>
+            <Status FormalName="Usable"/>
+        </NewsManagement>
+        <NewsComponent Duid="http://www.canadianbusiness.com/?p=339646 copyright" Essential="no" EquivalentsList="no">
+            <NewsLines>
+                <CopyrightLine>Chatelaine</CopyrightLine>
+            </NewsLines>
+            
+            <NewsComponent Duid="http://www.canadianbusiness.com/?p=339646">
+                <DateLine>20130410T133033</DateLine>
+                <Author>Peter Nowak</Author>
+                <NewsComponent>
+                    <Role FormalName="Main"/>
+                    <NewsLines>
+                        <HeadLine>Could the next Xbox be Microsoft’s final flop? It comes down to one decision</HeadLine>
+                        <SlugLine> 
+			                <![CDATA[<p>Always-on gaming could ruin Microsoft&#8217;s only remaining successful venture.</p>
+                            ]]>
+                        </SlugLine>
+                        <MoreLink> 
+                            http://www.canadianbusiness.com/?p=339646                        </MoreLink>
+                    </NewsLines>
+                    <ContentItem>
+                        <DataContent>
+                            <nitf>
+                                <body>
+                                    <body.head>
+                                        <headline>
+                                            <hl1>Could the next Xbox be Microsoft’s final flop? It comes down to one decision</hl1>
+                                        </headline>
+                                    </body.head>
+                                    
+	            	            	
+                                    <body.content>
+                                        <![CDATA[
+                                            <div id="attachment_15638" class="wp-caption alignnone" style="width: 610px"><img class="size-full wp-image-15638" alt="CB_Xbox_kinect" src="http://www.canadianbusiness.com/wp-content/uploads/2012/10/b7f2913c47a6bb836348c992d9d1.jpg" width="600" height="400" /><p class="wp-caption-text">(Photo: Nell Redmond/AP)</p></div>
+                                            <p>It’s been trendy for the past few years to harp on Microsoft and its many failings—last year’s <a href="http://www.nytimes.com/2012/01/08/technology/microsoft-defying-image-has-a-design-gem-in-windows-phone.html?pagewanted=all">temporary hype blip</a> notwithstanding—but it looks like things have progressed well beyond that. It’s becoming increasingly clear that there is something really wrong with the company.</p>
+                                            <p>Last year was a big one for the Redmond, Wash.-based software giant, with major relaunches of its ubiquitous computer operating system, mobile phone platform and, for the first time, its own computers in the form of tablets. A few months into 2013, it’s looking like none of those efforts have really panned out.</p>
+                                            <p>Windows 8, the company’s bread and butter, didn’t exactly set the world afire upon its debut last fall. <em>The New York Times</em> was <a href="http://www.nytimes.com/2012/12/24/technology/tepid-sales-of-microsofts-windows-8-point-to-shaky-market.html.">considering it a flop</a> as far back as December, with more recent analyses seconding that. The operating system’s uptake slowed for <a href="http://news.techworld.com/operating-systems/3432974/windows-8-uptake-slows-for-third-month/">a third straight month</a> in February, meaning Windows 8 has zero momentum behind it.</p>
+                                            <p>In phones, even the most <a href="http://crave.cnet.co.uk/mobiles/windows-phone-snatches-uk-sales-from-android-50010517/">positively spun stories</a> can’t help but point out that Microsoft’s ascension to the number three position in smartphones in many countries has come largely because of the decline of BlackBerry. When you’re number three simply because you showed up to the race while other competitors were busy imploding, well… that’s not exactly a good sign. And now that BlackBerry is actually putting out new devices again, how long will Windows’ sort-of momentum hold? Moreover, the bigger question surrounding both is how long will new phone buyers continue to shell out for devices that <a href="http://www.wired.com/gadgetlab/2013/03/windows-phones-app-problem/">don’t do nearly as much</a> as those from Apple and Android?</p>
+                                            <p>Turning to tablets, it would actually be charitable to call Microsoft’s first endeavour—the Surface RT—a flop. Indeed, the term “mega-flop” has been bandied about, with low sales combining with high return rates making the RT the <a href="http://news.cnet.com/8301-10805_3-57566759-75/microsoft-surface-sales-well-below-shipments-says-isuppli/">worst-received tablet</a> since the original BlackBerry PlayBook. Other Windows vendors are <a href="http://www.digitaltrends.com/computing/windows-rt-devices-getting-price-cuts-but-not-microsofts-surface-rt/">slashing prices</a> on their own RT tablets in an effort to move them, but who knows if that’ll work.</p>
+                                            <p>What about the Surface Pro, Microsoft’s second, recently released, higher-powered Windows 8 tablet? The company hasn’t announced sales numbers but estimates in mid-March <a href="http://www.bloomberg.com/news/2013-03-14/microsoft-s-surface-tablet-is-said-to-fall-short-of-predictions.html">pegged it at selling</a> about 400,000 units, or short of predictions. There was also the <a href="http://www.pcworld.com/article/2027808/microsoft-surface-pro-sell-out-flap-is-the-tablet-really-that-popular-.html">sell-out controversy</a>, where critics charged that Microsoft had artificially sold out the device’s inventory by producing only a small amount. As some Apple watchers humourously put it, the Surface Pro may have sold out, but <a href="http://wordsbynowak.com/2013/04/10/microsoft-flops/ppleinsider.com/articles/13/02/09/microsoft-sells-out-of-surface-pro-just-like-the-zune-hd-did-in-2009">so did the Zune</a> back in 2009.</p>
+                                            <p>That brings us to what is perhaps Microsoft’s most successful business, or at least the only one with any real positive momentum: the Xbox. The company can’t seem to steer clear of controversy here either, with Microsoft Studios creative director Adam Orth recently sticking his virtual foot in his virtual mouth with a Twitter tirade about <a href="http://ca.ign.com/articles/2013/04/05/microsoft-creative-director-on-always-online-deal-with-it">always-on games</a>. The next Xbox, which could potentially be unveiled in May, has long been rumoured to require a constant broadband connection for games to work on it, which is a potentiality Orth contributed to by mocking complaining gamers and rural residents (who can’t get broadband). The company even had to go so far as to apologize for his comments.</p>
+                                            <p>Now, the latest sign that something is really wrong with Microsoft—and Xbox—is explained by a solid <em>Wired</em> feature about how independent developers <a href="http://www.wired.co.uk/news/archive/2013-04/9/sony-indies">are fleeing the platform</a> to the warmer confines of Sony and its PlayStation. With the likes of <em>Journey</em>, <em>Retro City Rampage</em> and the just released <a href="http://m.theglobeandmail.com/technology/gaming/game-reviews/guacamelee-a-bang-up-lucha-libre-adventure-at-a-bargain-price/article10863415/?service=mobile"><em>Guacamelee!</em></a> (from Toronto’s Drinkbox Studios) exploding in popularity, indie games are quickly becoming a strong differentiator for console makers, a fact that Sony seems to have realized but that Microsoft doesn’t seem to care about. As the story puts it:</p>
+                                            <blockquote><p>Indies were once a fringe group of rogue developers who were often happy to get any sort of attention from a console manufacturer like Sony or Microsoft, but today they’re an industry force that will help shape the next generation of games and gaming machines.</p></blockquote>
+                                            <p>It’s hard to read this account of indie developers’ mistreatment at the hands of Microsoft and not get a sense of arrogance from the company, which seems to be backed up by the likes of Orth in his attitude toward gamers.</p>
+                                            <p>The fate of the company may indeed come down to that one simple decision: whether or not to force broadband connections on all next-generation-console games. With a gamer revolt likely to result, Microsoft’s last good business could be dealt a deadly blow. With all the other failures circling, where will that leave the company?</p>
+                                            <p>The post <a href="http://int-www.canadianbusiness.com/technology-news/could-the-next-xbox-be-microsofts-final-flop/">Could the next Xbox be Microsoft’s final flop? It comes down to one decision</a> appeared first on <a href="http://int-www.canadianbusiness.com">Canadian Business</a>.</p>			            <p><h3>Related Content</h3><ul><li><a href="http://int-www.canadianbusiness.com/technology-news/tv-and-video-game-contracts-could-be-the-future/">TV and video game contracts could be the future</a></li><li><a href="http://int-www.canadianbusiness.com/blogs-and-comment/tablets-in-the-classroom-will-soon-be-the-norm/">Tablets in the classroom will soon be the norm</a></li><li><a href="http://int-www.canadianbusiness.com/technology-news/the-biggest-advantage-microsoft-has-over-sony-and-nintendo/">The biggest advantage Microsoft has over Sony and Nintendo</a></li><li><a href="http://int-www.canadianbusiness.com/technology-news/5-next-generation-smartphones-to-watch-out-for/">5 next-generation smartphones to watch out for</a></li><li><a href="http://int-www.canadianbusiness.com/technology-news/will-amazon-sell-used-e-books-publishers-would-hate-that-unless-they-get-a-slice/">Will Amazon sell used e-books? Publishers would hate that</a></li></ul></p>	
+                                        ]]>						
+                                    </body.content>
+                                    
+                                    
+                                    
+                                </body>
+                            </nitf>
+                        </DataContent>
+                    </ContentItem>
+                </NewsComponent>
+            </NewsComponent>    
+        </NewsComponent>
+    </NewsItem>
+	
+	
+</NewsML>
